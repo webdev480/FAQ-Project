@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to left top, #af67e9, #6565e7) fixed;
+  }
+
+  .card-rounded {
+    border-radius: 15px;
+  }
+
+  .woman-desktop {
+    width: 200px;
+    height: 250px;
+    margin-top: 50px;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    width: 100%;
+    color: white;
+    text-align: center;
+  }
+  .link {
+    margin-right:10px
+        
+}
+  .link:hover{
+      color: #b31106;
+  }
+
+  a:link {
+    color: #310180;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  .footer a:nth-child(2) {
+    color: #07099B;
+  }
+
+  .footer a:nth-child(2):hover {
+    color: #b31106;
+  }
